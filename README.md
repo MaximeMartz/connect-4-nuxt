@@ -1,4 +1,4 @@
-# connect four
+# connectfour
 
 ## Build Setup
 
